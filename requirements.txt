@@ -1,0 +1,4 @@
+requests
+google-cloud-storage
+onvif-zeep==0.2.12
+python-dotenv
